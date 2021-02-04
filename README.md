@@ -2,24 +2,29 @@
 
 #### (Brief Description of Application)
 
-#### By (Your Name Here)
+#### By Dani Renner
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* HTML
+* JavaScript
+* jQuery
+* Bootstrap
+* CSS
+* webpack
+* Jest
+* Babel/core
+* eslint
+* Node
+* popper.js
 
 ## Description
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* You can clone the repository to your desktop
+* Navigate to the root directory of the project in the terminal and type 'open index.html' to view project in browser. OR you may use your computers graphical user interface to find index.html, and double-click to open in a browser. Use Chrome for best results.
+* Open the project in a text editor to view the code.
 
 ## Known Bugs
 
@@ -28,4 +33,12 @@
 
 ## License
 
+[MIT](https://opensource.org/licenses/MIT)
+
+Copyright © 2021 Dani Renner
+
+All Rights Reserved
+
 ## Contact Information
+
+Dani Renner danijrenner@gmail.com
