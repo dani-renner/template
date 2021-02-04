@@ -23,7 +23,9 @@
 ## Setup/Installation Requirements
 
 * You can clone the repository to your desktop
-* Navigate to the root directory of the project in the terminal and type 'open index.html' to view project in browser. OR you may use your computers graphical user interface to find index.html, and double-click to open in a browser. Use Chrome for best results.
+* In the terminal, you will need to enter npm install and npm run build to use the environment.
+* In the terminal, enter npm run start to view the project in a live server. Use Chrome for best results.
+* In the terminal, enter npm run test to use Jest.
 * Open the project in a text editor to view the code.
 
 ## Known Bugs
